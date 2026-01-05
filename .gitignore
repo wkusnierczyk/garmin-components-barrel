@@ -1,0 +1,13 @@
+# Connect IQ build output
+bin/
+gen/
+mir/
+internal-mir/
+external-mir/
+
+# Debug symbols
+*.debug.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
